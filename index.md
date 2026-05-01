@@ -59,3 +59,10 @@ author_profile: true
 - Supervised 250+ staff across rotating shifts...
 - Directed facility operations...
 - Optimized resource allocation...
+
+
+
+| Institution               | Location          |
+|---------------------------|-------------------|
+| **Virginia Tech**         | Blacksburg, VA    |
+| Research Assistant        | May 2019 – Aug 2019 |
