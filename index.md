@@ -10,7 +10,6 @@ author_profile: true
 
 ---
 ## EDUCATION
----
 Virginia Tech												            Blacksburg, VA
 B.S. Computational Modeling and Data Analytics | Minor: Computer Science			December 2025
 Northern Virginia Community College								          	Annandale, VA
