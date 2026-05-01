@@ -6,10 +6,11 @@ layout: single
 author_profile: true
 ---
 
-<div style="width: 100%; text-align: center; padding: 0.5rem 0; border-bottom: 1px solid #ddd;">
-  <strong>Manassas, VA</strong> | (571) 499-0366 | 
-  <a href="mailto:Jason.BrunoTerceros@gmail.com">Jason.BrunoTerceros@gmail.com</a> | 
-  <a href="https://linkedin.com/in/jason-bruno-terceros">linkedin.com/in/jason-bruno-terceros</a>
+<div class="contact-line">
+  <span class="contact-item"><strong>Manassas, VA</strong></span>
+  <span class="contact-item">(571) 499-0366</span>
+  <span class="contact-item"><a href="mailto:Jason.BrunoTerceros@gmail.com">Jason.BrunoTerceros@gmail.com</a></span>
+  <span class="contact-item"><a href="https://linkedin.com/in/jason-bruno-terceros">linkedin.com/in/jason-bruno-terceros</a></span>
 </div>
 
 ---
