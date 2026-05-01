@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-**Manassas, VA** | (571) 499-0366 | [Jason.BrunoTerceros@gmail.com](mailto:Jason.BrunoTerceros@gmail.com) | [linkedin.com/in/jason-bruno-terceros](https://linkedin.com/in/jason-bruno-terceros)
+**Manassas, VA** || (571) 499-0366 || [Jason.BrunoTerceros@gmail.com](mailto:Jason.BrunoTerceros@gmail.com) || [linkedin.com/in/jason-bruno-terceros](https://linkedin.com/in/jason-bruno-terceros)
 
 ---
 ## EDUCATION
