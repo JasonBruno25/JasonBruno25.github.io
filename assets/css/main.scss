@@ -2,7 +2,8 @@
 ---
 
 // Custom responsive contact line
-.contact-line {
+.contact-line 
+{
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -24,7 +25,7 @@
     .contact-item {
       width: 100%;
       &::after {
-        content: " |";
+        content: "";
       }
     }
   }
