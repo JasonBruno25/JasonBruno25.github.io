@@ -8,7 +8,7 @@ author_profile: true
 
 **Manassas, VA** || (571) 499-0366 || [Jason.BrunoTerceros@gmail.com](mailto:Jason.BrunoTerceros@gmail.com) || [linkedin.com/in/jason-bruno-terceros](https://linkedin.com/in/jason-bruno-terceros)
 
----
+
 ## EDUCATION
 Virginia Tech												            Blacksburg, VA
 B.S. Computational Modeling and Data Analytics | Minor: Computer Science			December 2025
